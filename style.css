@@ -38,7 +38,7 @@ html {
 .navbar .logo a {
   font-size: 30px;
   font-weight: 500;
-  color: #fff;
+  color: #101010;
   font-family: "Pacifico";
   transition: all 0.3s ease;
 }
@@ -62,7 +62,7 @@ html {
   font-size: 18px;
   font-weight: 500;
   margin-left: 25px;
-  color: #fff;
+  color: #101010;
   transition: color 0.3s ease;
 }
 .navbar .menu li a:hover {
@@ -117,11 +117,11 @@ html {
 /* Home Section Styling */
 .home {
   display: flex;
-  background: url(images/bannernew.jpg) no-repeat center;
+  background: url(images/logobg.jpg) no-repeat center;
   height: 100vh;
   background-size: cover;
   background-attachment: fixed;
-  color: white;
+  color: black;
   min-height: 500px;
   font-family: "Ubuntu", sans-serif;
 }
